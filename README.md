@@ -11,25 +11,19 @@
 <br><br>
 <h2 align=center>📚TECH STACK📚</h2>
   <h4>My Primary Stack</h4>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Javascript-F7901E?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=react&logoColor=white"> 
   <img src="https://img.shields.io/badge/React-40AEF0?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=reactquery&logoColor=white">
+  <img src="https://img.shields.io/badge/React query-FF4154?style=flat&logo=reactquery&logoColor=white">
   <br>
-  <h4>Techs that I've used</h4>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flate&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7901E?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+  <br>
+  <h4>Experienced</h4>
+  <img src="https://img.shields.io/badge/Lerna-9333EA?style=flat&logo=lerna&logoColor=white">
+  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/Android-5FCF80?style=flat&logo=android&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Firebase-FF791A?style=flat&logo=firebase&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+
   <br>
   <br>
   
