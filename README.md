@@ -4,9 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Suhyeon!&fontSize=30&animation=twinkling)
 <span>
   <h3>Seize The Day!</h3>
-  💞I love learning new skills and cycling🚴</h5>
+  I love learning new skills and cycling🚴</h5>
   <br>
-  💻 I’m majoring in Computer Science in UOS
+  💻 I majored in Computer Science in UOS
  </span>
 <br><br>
 <h2 align=center>📚TECH STACK📚</h2>
