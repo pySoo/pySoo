@@ -20,7 +20,10 @@
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
   <br>
   <h4>Experienced</h4>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/Lerna-9333EA?style=flat&logo=lerna&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/Android-5FCF80?style=flat&logo=android&logoColor=white"> 
 
