@@ -24,10 +24,6 @@
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/Android-5FCF80?style=flat&logo=android&logoColor=white"> 
 
-  <br>
-  <br>
-  
-  [![pySoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pySoo&theme=buefy&show_icons=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!---
