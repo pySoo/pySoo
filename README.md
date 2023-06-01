@@ -2,12 +2,19 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Suhyeon!&fontSize=30&animation=twinkling)
-<span>
+<div>
   <h3>Seize The Day!</h3>
-  I love learning new skills and cycling🚴</h5>
+  🚴 I love learning new skills and cycling
   <br>
   💻 I majored in Computer Science in UOS
- </span>
+</div>
+<br>
+<div>
+  <h3>Memories fade, but records remain</h3>
+  <a href="https://tourmaline-hiss-d5e.notion.site/Seize-the-Day-0c06dc6cc95441f09af48cea464102e0" target="_blank"><img src="https://img.shields.io/badge/TIL_Calendar-5bc920?style=flat-square&logo=Notion&logoColor=white"></a>
+  <br>
+  ✍ I record my daily studies, believing in the power of consistency.
+</div>
 <br><br>
 <h2 align=center>📚TECH STACK📚</h2>
   <h4>My Primary Stack</h4>
