@@ -11,7 +11,7 @@
 <div>
   <h3>Memories fade, but records remain</h3>
 
-  ✍️ [Tech Blog](https://pysoo.vercel.app)
+  ✍️ [Tech Blog](https://enjoydev.life)
   <br />
   📆 [TIL Calendar](https://tourmaline-hiss-d5e.notion.site/Seize-the-Day-0c06dc6cc95441f09af48cea464102e0)
   <br />
