@@ -13,7 +13,7 @@
 
   ✍️ [Tech Blog](https://enjoydev.life)
   <br />
-  📆 [TIL Calendar](https://tourmaline-hiss-d5e.notion.site/Seize-the-Day-0c06dc6cc95441f09af48cea464102e0)
+  📆 [TIL Calendar](https://soopy368.notion.site/Seize-the-Day-0c06dc6cc95441f09af48cea464102e0?pvs=4)
   <br />
   🌐 [Frontend Study](https://github.com/pySoo/Frontend-study)
   <br />
@@ -33,12 +33,14 @@
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
   <br />
   <h4>Experienced</h4>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/Lerna-9333EA?style=flat&logo=lerna&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
+  
   <br />
-  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-5FCF80?style=flat&logo=android&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Emotion-D26AC2?&style=flat&logo=emotion&logoColor=white">
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
 </div>
 
 <!---
