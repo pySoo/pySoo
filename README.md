@@ -35,7 +35,7 @@
   <h4>Experienced</h4>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Lerna-9333EA?style=flat&logo=lerna&logoColor=white">
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white">
   
   <br />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
