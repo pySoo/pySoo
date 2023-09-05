@@ -13,7 +13,7 @@
 
   ✍️ [Tech Blog](https://enjoydev.life)
   <br />
-  📆 [TIL Calendar](https://soopy368.notion.site/Seize-the-Day-0c06dc6cc95441f09af48cea464102e0?pvs=4)
+  📆 [TIL Notion](https://soopy368.notion.site/0b4f579a782d47ad8ef7e6cb93c352f6?v=4c22a46b9902469790b9a9f99ed356be)
   <br />
   🌐 [Frontend Study](https://github.com/pySoo/Frontend-study)
   <br />
