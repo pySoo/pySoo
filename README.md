@@ -15,7 +15,7 @@
   
 📝 [퇴사 후 나는 어떤 성장을 이루었나](https://www.enjoydev.life/blog/retrospect/1-devcourse-MIL-1)
 <br />
-🎡  [REST API에서 GraphQL로의 패러다임 변환](https://www.enjoydev.life/blog/frontend/11-graphql)
+🎡  [REST API에서 GraphQL로의 패러다임 전환](https://www.enjoydev.life/blog/frontend/11-graphql)
 <br />
 ⬆️ [Lighthouse로 Next.js 성능 44% 개선하기](https://www.enjoydev.life/blog/nextjs/3-performance)
 <br />
@@ -26,24 +26,24 @@
 <br />
 
 ## 📚TECH STACK📚
-  <h4>My Primary Stack</h4>
-  <img src="https://img.shields.io/badge/React-40AEF0?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=reactquery&logoColor=white">
-  <img src="https://img.shields.io/badge/React query-FF4154?style=flat&logo=reactquery&logoColor=white">
-  <br />
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7901E?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
-  <br />
-  <h4>Experienced</h4>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white">
-  
-  <br />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Emotion-D26AC2?&style=flat&logo=emotion&logoColor=white">
-  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+#### My Primary Stack
+<img src="https://img.shields.io/badge/React-40AEF0?style=flat&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/React query-FF4154?style=flat&logo=reactquery&logoColor=white">
+<br />
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7901E?style=flat&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+<br />
+
+#### Experienced
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white">
+<br />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
+<img src="https://img.shields.io/badge/Emotion-D26AC2?&style=flat&logo=emotion&logoColor=white">
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
 
 </div>
 
