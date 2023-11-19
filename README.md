@@ -15,6 +15,8 @@
   
 📝 [퇴사 후 나는 어떤 성장을 이루었나](https://www.enjoydev.life/blog/retrospect/1-devcourse-MIL-1)
 <br />
+🧗‍♀️ [변화에 유연한 설계를 위한 고민 - 추상화](https://www.enjoydev.life/blog/retrospect/2-abstract-architecture)
+<br />
 🎡  [REST API에서 GraphQL로의 패러다임 전환](https://www.enjoydev.life/blog/frontend/11-graphql)
 <br />
 ⬆️ [Lighthouse로 Next.js 성능 44% 개선하기](https://www.enjoydev.life/blog/nextjs/3-performance)
