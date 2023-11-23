@@ -12,10 +12,12 @@
 
 ## Memories fade, but records remain
 
-  
+🧗‍♀️ [변화에 유연한 설계를 위한 고민 - 추상화](https://www.enjoydev.life/blog/retrospect/2-abstract-architecture)
+<br />
 📝 [퇴사 후 나는 어떤 성장을 이루었나](https://www.enjoydev.life/blog/retrospect/1-devcourse-MIL-1)
 <br />
-🧗‍♀️ [변화에 유연한 설계를 위한 고민 - 추상화](https://www.enjoydev.life/blog/retrospect/2-abstract-architecture)
+💪 [차별화된 나만의 무기 찾기](https://www.enjoydev.life/blog/retrospect/3-devcourse-MIL-2)
+<br />
 <br />
 🎡  [REST API에서 GraphQL로의 패러다임 전환](https://www.enjoydev.life/blog/frontend/11-graphql)
 <br />
