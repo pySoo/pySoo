@@ -12,20 +12,18 @@
 
 ## Memories fade, but records remain
 
-🧗‍♀️ [변화에 유연한 설계를 위한 고민 - 추상화](https://www.enjoydev.life/blog/retrospect/2-abstract-architecture)
+🧗‍♀️ <a href="https://www.enjoydev.life/blog/retrospect/2-abstract-architecture" target="_blank">변화에 유연한 설계를 위한 고민 - 추상화</a>
 <br />
-📝 [퇴사 후 나는 어떤 성장을 이루었나](https://www.enjoydev.life/blog/retrospect/1-devcourse-MIL-1)
+📝 <a href="https://www.enjoydev.life/blog/retrospect/1-devcourse-MIL-1" target="_blank">퇴사 후 나는 어떤 성장을 이루었나</a>
 <br />
-💪 [차별화된 나만의 무기 찾기](https://www.enjoydev.life/blog/retrospect/3-devcourse-MIL-2)
+💪 <a href="https://www.enjoydev.life/blog/retrospect/3-devcourse-MIL-2" target="_blank">차별화된 나만의 무기 찾기</a>
 <br />
 <br />
-🎡  [REST API에서 GraphQL로의 패러다임 전환](https://www.enjoydev.life/blog/frontend/11-graphql)
+🎡 <a href="https://www.enjoydev.life/blog/frontend/11-graphql" target="_blank">REST API에서 GraphQL로의 패러다임 전환</a>
 <br />
-⬆️ [Lighthouse로 Next.js 성능 44% 개선하기](https://www.enjoydev.life/blog/nextjs/3-performance)
+⬆️ <a href="https://www.enjoydev.life/blog/nextjs/3-performance" target="_blank">Lighthouse로 Next.js 성능 44% 개선하기</a>
 <br />
-🏃‍♀️ [생산성 향상을 위한 사내 모노레포 도입 여정](https://www.enjoydev.life/blog/frontend/8-monorepo)
-
-
+🏃‍♀️ <a href="https://www.enjoydev.life/blog/frontend/8-monorepo" target="_blank">생산성 향상을 위한 사내 모노레포 도입 여정</a>
 
 <br />
 
