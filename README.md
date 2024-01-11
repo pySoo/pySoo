@@ -8,6 +8,8 @@
 <br />
 💻 I majored in Computer Science in UOS
 
+<img src="https://github-readme-stats.vercel.app/api?username=pySoo&show_icons=true">
+
 <br />
 
 ## Memories fade, but records remain
