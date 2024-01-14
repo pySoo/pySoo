@@ -4,15 +4,15 @@
 🚴 I love learning new skills and cycling
 <br />
 💻 I majored in Computer Science in UOS
-
-<img src="https://github-readme-stats.vercel.app/api?username=pySoo&show_icons=true">
-
 <br />
 <br />
 
 ## Memories fade, but records remain
 
+🥕 <a href="https://www.enjoydev.life/blog/retrospect/5-daangn-interview" target="_blank">당근마켓 최종 면접까지의 과정을 돌아보며</a>
+<br />
 🧗‍♀️ <a href="https://www.enjoydev.life/blog/retrospect/2-abstract-architecture" target="_blank">변화에 유연한 설계를 위한 고민 - 추상화</a>
+<br />
 <br />
 📝 <a href="https://www.enjoydev.life/blog/retrospect/1-devcourse-MIL-1" target="_blank">퇴사 후 나는 어떤 성장을 이루었나</a>
 <br />
@@ -46,7 +46,6 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
 <img src="https://img.shields.io/badge/Emotion-D26AC2?&style=flat&logo=emotion&logoColor=white">
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
-
 </div>
 
 <!---
