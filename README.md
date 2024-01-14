@@ -1,6 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&fontColor=ffffff&height=180&section=header&text=Welcome👋%20I'm%20Suhyeon!&fontSize=30&animation=twinkling)
-
 <div align="center">
   
 ## Seize The Day!
@@ -10,6 +7,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=pySoo&show_icons=true">
 
+<br />
 <br />
 
 ## Memories fade, but records remain
