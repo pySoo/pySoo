@@ -48,7 +48,15 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
 <img src="https://img.shields.io/badge/Emotion-D26AC2?&style=flat&logo=emotion&logoColor=white">
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
+
+<br />
+<br />
+
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=pySoo&show_icons=true">
 </div>
+
+
 
 <!---
 pySoo/pySoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
