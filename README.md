@@ -15,6 +15,8 @@
 <br />
 🧗‍♀️ <a href="https://www.enjoydev.life/blog/retrospect/2-abstract-architecture" target="_blank">변화에 유연한 설계를 위한 고민 - 추상화</a>
 <br />
+💯 <a href="https://www.enjoydev.life/blog/frontend/12-suspense-errorboundary" target="_blank">선언적 비동기 처리로 사용자 경험 향상시키기</a>
+<br />
 <br />
 📝 <a href="https://www.enjoydev.life/blog/retrospect/1-devcourse-MIL-1" target="_blank">퇴사 후 나는 어떤 성장을 이루었나</a>
 <br />
