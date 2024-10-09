@@ -5,7 +5,7 @@
 ## Seize The Day!
 🚴 I love learning new skills and cycling
 <br />
-💻 I majored in Computer Science in UOS
+💻 I majored in Computer Science
 <br />
 <br />
 
