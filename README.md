@@ -16,14 +16,11 @@
 🔵 <a href="https://www.enjoydev.life/blog/retrospect/7-toss-interview" target="_blank">과제 탈락을 딛고 토스증권 최종 면접까지</a>
 <br />
 <br />
+💪 <a href="https://www.enjoydev.life/blog/retrospect/3-devcourse-MIL-2" target="_blank">차별화된 나만의 무기 찾기</a>
+<br />
 🧗‍♀️ <a href="https://www.enjoydev.life/blog/retrospect/2-abstract-architecture" target="_blank">변화에 유연한 설계를 위한 고민 - 추상화</a>
 <br />
 💯 <a href="https://www.enjoydev.life/blog/frontend/12-suspense-errorboundary" target="_blank">선언적 비동기 처리로 사용자 경험 향상시키기</a>
-<br />
-<br />
-📝 <a href="https://www.enjoydev.life/blog/retrospect/1-devcourse-MIL-1" target="_blank">퇴사 후 나는 어떤 성장을 이루었나</a>
-<br />
-💪 <a href="https://www.enjoydev.life/blog/retrospect/3-devcourse-MIL-2" target="_blank">차별화된 나만의 무기 찾기</a>
 <br />
 <br />
 🎡 <a href="https://www.enjoydev.life/blog/frontend/11-graphql" target="_blank">REST API에서 GraphQL로의 패러다임 전환</a>
